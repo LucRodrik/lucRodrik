@@ -6,9 +6,9 @@
 
 ##
 
-- 🔭 Cursando Análise de Sistemas...
-- 🌱 Aprendendo Python e C++...
-##
+- Cursando Análise de Sistemas...
+- Aprendendo Python e C++...
+
 </div>
     
   <div style="display: inline_block" align="center"><br>
@@ -21,7 +21,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucRodrik&show_icons=true&theme=dark)
 
 ##
-- Se quiser saber mais, confira as redes sociais abaixo...
+Se quiser saber mais, confira as redes sociais abaixo...
 
 </div>
 
