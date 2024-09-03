@@ -18,7 +18,7 @@
   <p></p>
   <div align="center"> 
   <a href="https://www.instagram.com/lucian_3d/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:mateus_amoavida_2@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
+  <a href = "mailto:lucianf3d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucian-fernandes-30553682/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.youtube.com/channel/UCsmYgIm-jD0xx1iQUFM6KQw"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
  
