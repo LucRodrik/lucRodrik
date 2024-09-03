@@ -4,13 +4,23 @@
   </a>
 </p> 
 
+##
 
 - 🔭 Cursando Análise de Sistemas...
 - 🌱 Aprendendo Python e C++...
+##
+</div>
+    
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg">
+  
 
+
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucRodrik&show_icons=true&theme=dark)
 
-
+##
 - Se quiser saber mais, confira as redes sociais abaixo...
 
 </div>
