@@ -8,9 +8,8 @@
 - 🔭 Cursando Análise de Sistemas...
 - 🌱 Aprendendo Python para Ciências de Dados...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucRodrik&show_icons=true&theme=radical)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucRodrik)](https://github.com/lucRodrik/github-readme-stats)
 
 - Para me encontrar só clicar nas redes sociais abaixo...
 
