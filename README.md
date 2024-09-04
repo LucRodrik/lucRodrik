@@ -21,7 +21,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucRodrik&show_icons=true&theme=dark)
 
 ##
-Se quiser saber mais, confira as redes sociais abaixo...
+Se quiser me conhecer mais confira as redes sociais abaixo...
 
 </div>
 
