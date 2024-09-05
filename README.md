@@ -5,7 +5,7 @@
 </p> 
 
 ##
-
+Sou um artista 3D em transição de carreira!
 - Cursando Análise de Sistemas...
 - Aprendendo Python e C++...
 
