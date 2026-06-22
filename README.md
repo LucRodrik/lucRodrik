@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1628&height=180&section=header&text=Lucian%20Fernandes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Builder%20%7C%20React%20Native%20%2B%20Node.js&descAlignY=56&descColor=00D4FF&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1628&height=180&section=header&text=Lucian%20Fernandes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Builder%20%7C%20React%20Native%20%2B%20Node.js%20%7C%20Fundador%20do%20Fatux&descAlignY=56&descColor=00D4FF&descSize=15"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=480&height=45&lines=React+Native+%2B+Expo;TypeScript+%7C+Node.js;Construindo+produtos+reais" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=520&height=45&lines=React+Native+%2B+Expo+%7C+iOS+%26+Android;Supabase+%7C+IA+%7C+WhatsApp+API;Construindo+produtos+reais+do+zero" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -10,35 +10,38 @@
 
 ## Sobre
 
-Background em arte 3D, hoje construindo produtos digitais do zero. Fundador do **Fatux**, app de gestão financeira para autônomos e pequenos empresários.
+Background em arte 3D, hoje construindo produtos digitais do zero. Fundador do **Fatux** — plataforma de gestão financeira para autônomos e pequenos empresários, com bot WhatsApp, scan de nota fiscal por IA e assinatura Pro.
 
-- 📱 **React Native** e **Expo** — Android & iOS
-- 🌐 **Node.js** — APIs e back-end
-- 🔷 **TypeScript** — tipagem e qualidade de código
-- 🏢 **Ujamaa Tech Studio**
+- 📱 **React Native + Expo** — app nativo iOS & Android a partir de um único código
+- ☁️ **Supabase** — banco PostgreSQL, autenticação, storage e Edge Functions
+- 🤖 **IA (Claude Haiku)** — análise de comprovantes e linguagem natural
+- 📲 **Bot WhatsApp (Twilio + AssemblyAI)** — registro de vendas por texto e áudio
+- 💳 **Mercado Pago** — pagamentos via cartão, PIX e boleto
 
 ---
 
-## Projeto em destaque
+## 🚀 Projeto em destaque — [Fatux](https://www.fatux.com.br)
 
 <div align="center">
 
-### 🚀 [Fatux](https://www.fatux.com.br) — Gestão Financeira pelo WhatsApp
+> Gestão financeira pelo WhatsApp para autônomos e pequenos empresários.
+> Cobranças automáticas · Scan de NF por IA · Bot WhatsApp · Plano Pro R$18,90/mês
 
-Plataforma de controle financeiro para autônomos e pequenos empresários. Cobranças automáticas, registro de vendas via WhatsApp, scan de nota fiscal e análise com IA.
-
-[![Fatux](https://img.shields.io/badge/Acessar%20o%20Fatux-0A1628?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://www.fatux.com.br)
-
-`React Native` · `Node.js` · `TypeScript` · `WhatsApp API` · `IA`
+[![Acessar Fatux](https://img.shields.io/badge/fatux.com.br-0A1628?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://www.fatux.com.br)
+[![Status](https://img.shields.io/badge/Status-No%20ar-00D4FF?style=for-the-badge)]()
 
 </div>
+
+**Stack do Fatux:**
+
+`React Native` · `Expo` · `TypeScript` · `Supabase` · `Claude Haiku (Anthropic)` · `Twilio` · `AssemblyAI` · `Mercado Pago` · `Vercel`
 
 ---
 
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,github&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,supabase,git,github&theme=dark&perline=7"/>
 </div>
 
 <br/>
@@ -48,7 +51,8 @@ Plataforma de controle financeiro para autônomos e pequenos empresários. Cobra
 ![React Native](https://img.shields.io/badge/React%20Native-0A1628?style=for-the-badge&logo=react&logoColor=00D4FF)
 ![Expo](https://img.shields.io/badge/Expo-0A1628?style=for-the-badge&logo=expo&logoColor=00D4FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=00D4FF)
-![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=for-the-badge&logo=node.js&logoColor=00D4FF)
+![Supabase](https://img.shields.io/badge/Supabase-0A1628?style=for-the-badge&logo=supabase&logoColor=00D4FF)
+![Vercel](https://img.shields.io/badge/Vercel-0A1628?style=for-the-badge&logo=vercel&logoColor=00D4FF)
 
 </div>
 
