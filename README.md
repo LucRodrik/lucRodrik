@@ -43,7 +43,7 @@ Background em arte 3D, hoje focado em desenvolvimento mobile. Construo apps mult
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucRodrik&show_icons=true&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&bg_color=0A1628&border_color=1E3A5F&border_radius=10&hide_border=false&include_all_commits=true"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucRodrik&layout=compact&title_color=00D4FF&text_color=ffffff&bg_color=0A1628&border_color=1E3A5F&border_radius=10&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucRodrik&layout=compact&title_color=00D4FF&text_color=ffffff&bg_color=0A1628&border_color=1E3A5F&border_radius=10&langs_count=6&exclude_repo=lucRodrik,C-digo-ReadME,skill-icons,dio-lab-open-source"/>
 </div>
 
 ---
@@ -58,10 +58,6 @@ Background em arte 3D, hoje focado em desenvolvimento mobile. Construo apps mult
 &nbsp;
 <a href="mailto:lucianf3d@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0A1628?style=for-the-badge&logo=gmail&logoColor=00D4FF"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/lucian_3d/">
-  <img src="https://img.shields.io/badge/Instagram-0A1628?style=for-the-badge&logo=instagram&logoColor=00D4FF"/>
 </a>
 
 </div>
